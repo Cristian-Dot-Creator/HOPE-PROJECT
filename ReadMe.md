@@ -56,9 +56,9 @@ This template was designed for research/freelance projects. Created by Sterling 
 
 ---
 
-1. Proposal Completed
-2. Literature Review need to be drafted
-3. Begin designing algorithms
+1. 
+2. 
+3. 
 
 ---
 
