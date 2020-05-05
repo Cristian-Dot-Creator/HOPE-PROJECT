@@ -1,6 +1,6 @@
 # HOPE Project
 
-This template was designed for research/freelance projects. Created by Sterling Osborne.
+Feel Free to add and change anything on this document. 
 
 # Oppression
 
