@@ -30,7 +30,7 @@ This template was designed for research/freelance projects. Created by Sterling 
 Add links that the team may find useful. 
 ---
 1. [Bar Chart API](https://developers.google.com/chart/interactive/docs/gallery/barchart)
-2.
+2. [BlogAPI](https://www.youtube.com/watch?v=uOwNY4qmOgU)
 3.
 4.
 5.
