@@ -3,12 +3,6 @@
 ![ ](Images/photo-1492176273113-2d51f47b23b0.jfif)
 
 
-## Installing
-Once the repo is downloaded, Open up your text editor of choice and Terminal.
-From your Terimnal you want to cd into Blog-Master Folder. 
-
-
-
 Your [README.md](http://readme.md/) file should include steps to installing
 and running your app. You should also include the
 certain technologies you used to build your app.
@@ -22,15 +16,11 @@ client (HTML website).
 App must be using APIs that you made and 3rd
 party APIs
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+# HOPE-PROJECT
 
-# Repository Title Goes Here
-
-> Subtitle or Short Description Goes Here
+> Share your stories, Spread awareness, build a community, Know you are not alone.
 
 > ideally one sentence
 
