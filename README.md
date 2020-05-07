@@ -55,7 +55,7 @@ party APIs
 ## Installation
 
 ### Clone
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/Cristian-Dot-Creator/HOPE-PROJECT.git`
 
 ![Recordit GIF](http://g.recordit.co/sQPBGKhJSg.gif)
 
