@@ -40,11 +40,6 @@ party APIs
 - etc.
 
 
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/oYgG16xUUg.gif)
-
----
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -60,22 +55,19 @@ party APIs
 ## Installation
 
 ### Clone
-![Recordit GIF](http://g.recordit.co/sQPBGKhJSg.gif)
-
 - Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
 
-### Setup
+![Recordit GIF](http://g.recordit.co/sQPBGKhJSg.gif)
 
-**Recordit**
+
+### Setup
+> now install npm and node modules
+- All the `code` required to get started
+- npm run server index.js -- To run nodemon
 
 ![Recordit GIF](http://g.recordit.co/oYgG16xUUg.gif)
 
 - All the `code` required to get started
-- Images of what it should look like
-
-- If you want more syntax highlighting, format your code like this:
-
-
 
 > now install npm and node modules
 
