@@ -2,55 +2,27 @@
 
 ![ ](Images/photo-1492176273113-2d51f47b23b0.jfif)
 
-
-Your [README.md](http://readme.md/) file should include steps to installing
-and running your app. You should also include the
-certain technologies you used to build your app.
-
-Organized Github Repository with a LICENSE, a
-README, and a .gitignore file present
-
-A server that is sending requests to a front-end
-client (HTML website).
-
-App must be using APIs that you made and 3rd
-party APIs
-
-
-
 # HOPE-PROJECT
 
-> Share your stories, Spread awareness, build a community, Know you are not alone.
+> Share your stories, Spread awareness 
 
-> ideally one sentence
+> Spread awareness
 
-> include terms/tags that can be searched
+> Build a community, Know you are not alone
 
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
+##Apps and Modules Used 
 - devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
+- Express
+- body-parser
+- ejs
+- nodemon
+- realm
 
 
 ## Table of Contents 
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
-
-
----
-
-## Example (Optional)
-
 
 ## Installation
 
@@ -112,3 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 [Realm](https://academy.realm.io/posts/realm-node-js-express-blog-tutorial/)
+API
