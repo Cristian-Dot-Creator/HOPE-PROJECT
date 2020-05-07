@@ -51,11 +51,12 @@ $ npm install
 
 
 ---
-
+```
 ## Contributing
 
 > To get started...
-
+ ![Recordit GIF](http://g.recordit.co/6IVoy9SeRU.gif)
+```
 ### Step 1
 
 - **Option 1**
