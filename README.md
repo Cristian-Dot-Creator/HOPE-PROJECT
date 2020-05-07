@@ -4,7 +4,7 @@
 
 # HOPE-PROJECT
 
-> Share your stories, Spread awareness 
+> Share your stories
 
 > Spread awareness
 
