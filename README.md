@@ -111,4 +111,4 @@ William, Naven, Cristian, Adrian
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
+[Realm](https://academy.realm.io/posts/realm-node-js-express-blog-tutorial/)
