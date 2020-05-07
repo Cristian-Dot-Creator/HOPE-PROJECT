@@ -63,7 +63,7 @@ party APIs
 ### Setup
 > now install npm and node modules
 - All the `code` required to get started
-![Recordit GIF](http://g.recordit.co/XYmJXo9lQF.gif)
+![Recordit GIF](http://g.recordit.co/Csjr8KXfaT.gif)
 
 - npm run server index.js -- To run nodemon
 
@@ -98,7 +98,7 @@ $ npm install
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="" target="_blank">``</a>.
 
 ---
 ```
