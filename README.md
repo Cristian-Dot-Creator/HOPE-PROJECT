@@ -98,7 +98,7 @@ $ npm install
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="" target="_blank">``</a>.
+- 🔃 Create a new pull request 
 
 ---
 ```
