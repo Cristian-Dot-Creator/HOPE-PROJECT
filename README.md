@@ -15,3 +15,100 @@ client (HTML website).
 
 App must be using APIs that you made and 3rd
 party APIs
+
+
+
+# HOPE-PROJECT
+
+> Share your stories, Spread awareness, build a community, Know you are not alone.
+
+> ideally one sentence
+
+> include terms/tags that can be searched
+
+**Badges will go here**
+
+- build status
+- issues (waffle.io maybe)
+- devDependencies
+- npm package
+- coverage
+- slack
+- downloads
+- gitter chat
+- license
+- etc.
+
+
+
+## Table of Contents 
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+---
+
+## Example (Optional)
+
+
+## Installation
+
+### Clone
+- Clone this repo to your local machine using `https://github.com/Cristian-Dot-Creator/HOPE-PROJECT.git`
+
+![Recordit GIF](http://g.recordit.co/sQPBGKhJSg.gif)
+
+
+### Setup
+> now install npm and node modules
+- All the `code` required to get started
+![Recordit GIF](http://g.recordit.co/Csjr8KXfaT.gif)
+
+- npm run server index.js -- To run nodemon
+
+![Recordit GIF](http://g.recordit.co/X8w48apHpV.gif)
+
+- All the `code` required to get started
+
+> now install npm and node modules
+
+```shell
+$ npm install
+
+
+
+---
+
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/Cristian-Dot-Creator/HOPE-PROJECT.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request 
+
+---
+```
+## Team
+
+William, Naven, Cristian, Adrian  
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+[Realm](https://academy.realm.io/posts/realm-node-js-express-blog-tutorial/)
