@@ -63,7 +63,7 @@ party APIs
 ### Setup
 > now install npm and node modules
 - All the `code` required to get started
-![Recordit GIF](http://g.recordit.co/oYgG16xUUg.gif)
+![Recordit GIF](http://g.recordit.co/XYmJXo9lQF.gif)
 
 - npm run server index.js -- To run nodemon
 
