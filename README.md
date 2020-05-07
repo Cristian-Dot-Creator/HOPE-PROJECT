@@ -86,3 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 [Realm](https://academy.realm.io/posts/realm-node-js-express-blog-tutorial/)
 API
+
+# Future Plans 
+We plan to create an API that allows you to upload files to the Blog , We know some of our users will already have their own Documents written out. We want those user to have the ablitly to upload and share thier experiences as well. Creating a data base that stores all these new posted blogs and uploaded files is Also one of our future goals. 
